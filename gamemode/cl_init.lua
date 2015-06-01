@@ -1,4 +1,4 @@
-GM.Version = "2.4.3"
+GM.Version = "2.4.3-potcfdk-fix-g150601"
 GM.Name = "DarkRP"
 GM.Author = "By Rickster, Updated: Pcwizdan, Sibre, philxyz, [GNC] Matt, Chrome Bolt, FPtje Falco, Eusion, Drakehawke"
 

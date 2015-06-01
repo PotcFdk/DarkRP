@@ -1,6 +1,5 @@
-This list is missing content. For a full list see:
-http://code.google.com/p/darkrp/source/list
-for the latest changes
+DarkRP 2.4.3-potcfdk-fix-g150601
+[FIX] Fixed DarkRP for Garry's Mod, version 2015-06-01
 
 DarkRP 2.4.3
 [ADD] Laws system! Use /placelaws to spawn a screen displaying the laws, /addlaw and /removelaw to edit them. rp_maxlawboards to set the limit.
