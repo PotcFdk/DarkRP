@@ -16,7 +16,7 @@ local function drawMOTD(text)
 end
 
 local function receiveMOTD(html, len, headers, code)
-	if string.sub(headers.Status, 1, 3) ~= "200" then return end
+	if code ~= 200 then return end
 	drawMOTD(html)
 end
 
